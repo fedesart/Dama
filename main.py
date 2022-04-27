@@ -1,7 +1,7 @@
 #%% Dama game
  
 from copy import deepcopy
-
+# test
 # 0 = empty cell
 # 9 = grid limits
 # 1 = player 1 - std pawn
